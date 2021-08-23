@@ -9,6 +9,7 @@ Coverage Area – Button is not available to be pressed until address is typed i
 See if there is a way to allow the button to be used by hitting tab and then enter 
 
 After Coverage Page three different pages with different capabilities 
+_________________________________________________________________________________________________________________________________________________________________________
 
 # Serviceable Page 
 
@@ -40,7 +41,7 @@ Mesh Network – two plus access points per home assessment - $20+
 
 Next button causes transition the flex boxes move away and in their place user account forms will appear 
 
-# Service Information form 
+Service Information form 
 
 First Name 
 
@@ -94,7 +95,7 @@ Login will bring customers to a home account page showing their deposit, service
 
 Main menu bar including the following tabs 
 
-## Home 
+Home 
 
 Billing 
 
@@ -122,9 +123,9 @@ Edit account
 
 Logout 
 
-______________________________________________________________________________ 
+_________________________________________________________________________________________________________________________________________________________________________
 
-Not Currently Serviceable Page 
+# Not Currently Serviceable Page 
 
 Session based 15-minute timer 
 
@@ -146,15 +147,15 @@ Continue button triggers email and entry into a database that I can reference fo
 
 _____________________________________________________________________________ 
 
-Not Serviceable Page 
+# Not Serviceable Page 
 
 Session based 15-minute timer 
 
 Technologies Unlimited does not currently have plans to expand coverage in *your area* We will none the less keep an eye on all submission addresses and if we believe this to be a mistake, we will update the site to reflect. 
 
-______________________________________________________________________________ 
+_________________________________________________________________________________________________________________________________________________________________________
 
-The Unlimited Admin Portal 
+# The Unlimited Admin Portal 
 
 Needs to have a user login dedicated to internal use 
 
