@@ -10,7 +10,7 @@ See if there is a way to allow the button to be used by hitting tab and then ent
 
 After Coverage Page three different pages with different capabilities 
 
-Serviceable Page 
+# Serviceable Page 
 
 Session based 30-minute order timer 
 
@@ -40,7 +40,7 @@ Mesh Network – two plus access points per home assessment - $20+
 
 Next button causes transition the flex boxes move away and in their place user account forms will appear 
 
-Service Information form 
+# Service Information form 
 
 First Name 
 
@@ -94,7 +94,7 @@ Login will bring customers to a home account page showing their deposit, service
 
 Main menu bar including the following tabs 
 
-Home 
+## Home 
 
 Billing 
 
