@@ -31,45 +31,45 @@ Choice of packages in a flex box or something similar – transitions between fl
 
 Way to select flex box for user and once flex box is selected allow next button to be pressed but before selecting next button does not work 
 
-Next button goes to another three-flex box with Wi-Fi monthly options 
+**Next button goes to another three-flex box with Wi-Fi monthly options**
 
-BYOW – Bring your own wireless – $0 
+* BYOW – Bring your own wireless – $0 
 
-Small to Medium Sized Home – $10 
+* Small to Medium Sized Home – $10 
 
-Mesh Network – two plus access points per home assessment - $20+ 
+* Mesh Network – two plus access points per home assessment - $20+ 
 
-Next button causes transition the flex boxes move away and in their place user account forms will appear 
+**Next button causes transition the flex boxes move away and in their place user account forms will appear** 
 
-Service Information form 
+**Service Information form** 
 
-First Name 
+* First Name 
 
-Last Name 
+* Last Name 
 
-Phone Number 
+* Phone Number 
 
-Email Address 
+* Email Address 
 
-Billing Information form 
+**Billing Information form** 
 
-Name (as it appears on card) 
+* Name (as it appears on card) 
 
-Billing Zip / Postal Code 
+* Billing Zip / Postal Code 
 
-Credit Card Number 
+* Credit Card Number 
 
-MM/YY  
+* MM/YY  
 
-CVV 
+* CVV 
 
-Show total cost of service including what is due on day of installation 
+**Next show total cost of service including what is due on day of installation** 
 
-Installation cost 
+* Installation cost 
 
-Internet Cost - $XX.XX /month 
+* Internet Cost - $XX.XX /month 
 
-Wi-Fi Cost - $XX.XX /month 
+* Wi-Fi Cost - $XX.XX /month 
 
 Allow the ability for them to pay for installation costs ahead of time to fund faster buildout to their location – opt in but they do not have to 
 
@@ -91,27 +91,27 @@ Button sends password to database to finish user setup and login page appears
 
 Login will be possible from email obtained during service information form above and password on the earlier page 
 
-Login will bring customers to a home account page showing their deposit, service address and a link to Terms of Service  
+**Login will bring customers to a home account page showing their deposit, service address and a link to Terms of Service**  
 
 Main menu bar including the following tabs 
 
-Home 
+**Home** 
 
-Billing 
+**Billing** 
 
-Home page with current balance, make a payment button and the ability to update auto payment info 
+* Home page with current balance, make a payment button and the ability to update auto payment info 
 
 Within billing a submenu below the main menu 
 
-Internet Package 
+* Internet Package 
 
-Wi-Fi Package 
+* Wi-Fi Package 
 
-Statements 
+* Statements 
 
-Payment History 
+* Payment History 
 
-Customer Portal 
+* Customer Portal 
 
 Ticket submission system that goes back to my admin portal in which I get email or text notifications alerting me to submission and a reminder notification 😊 
 
@@ -119,9 +119,9 @@ A place where when I respond to the ticket, they can have a nice graphical view 
 
 An account logo with the following 
 
-Edit account 
+* Edit account 
 
-Logout 
+* Logout 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -133,15 +133,15 @@ Technologies Unlimited is expanding coverage throughout the United States. If yo
 
 Next button goes to service form 
 
-Service Information form 
+**Service Information form** 
 
-First Name 
+* First Name 
 
-Last Name 
+* Last Name 
 
-Phone Number 
+* Phone Number 
 
-Email Address 
+* Email Address 
 
 Continue button triggers email and entry into a database that I can reference for a variety of reasons including areas to expand too and the ability to set alerts based on thresholds such as amount of address on a specific street or in a single town 
 
