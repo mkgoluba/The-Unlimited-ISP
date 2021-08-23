@@ -19,15 +19,15 @@ Technologies Unlimited will start servicing your area in 2022. You will receive 
 
 Choice of packages in a flex box or something similar – transitions between flexbox pages and input pages should be seamless using java or another language.  
 
-$50 - $65 - $80 - $100 monthly packages 
+**$50 - $65 - $80 - $100 monthly packages** 
 
-$50 – up to 100M 
+* $50 – up to 100M 
 
-$65 – up to 250M 
+* $65 – up to 250M 
 
-$80 – up to 500M 
+* $80 – up to 500M 
 
-$100 – up to 1000M 
+* $100 – up to 1000M 
 
 Way to select flex box for user and once flex box is selected allow next button to be pressed but before selecting next button does not work 
 
